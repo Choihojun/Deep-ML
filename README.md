@@ -3,7 +3,7 @@ This repository is for praticing everything of Deep RL
 
 
 
-Installation
+# 1. Installation
 
 1. Install anaconda python
 
@@ -15,19 +15,19 @@ After finishing the installation, add anaconda python path to 'C:\Anaconda3\Scri
 2. Make virtual environment
 write the command below \
   
-  Install new environment
-  (1) conda create -n <Virtual environment name> python=<python version you want>
+  Install new environment \
+  (1) conda create -n <Virtual environment name> python=<python version you want> \
   ex) conda create -n Deep_ML python=3.7
   
-  Activate new environment
+  Activate new environment \
   (2) conda activate Deep_ML
   
-  Install Keras into new environment
-  (3) conda install keras
+  Install Keras into new environment \
+  (3) conda install keras \
   (4) conda install tensorflow
   
-  Install jupyter
-  (4) conda install ipykernel
+  Install jupyter \
+  (4) conda install ipykernel \
   (5) python -m ipykernel install --user keras-gpu
   
   
