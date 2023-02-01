@@ -1,5 +1,5 @@
 # Deep-ML
-This repository is for praticing everything of Deep RL
+This repository is for praticing everything of Deep RL & Toward advanced AI researcher in Energy and battery field
 
 ## Part1. Introduction
 
