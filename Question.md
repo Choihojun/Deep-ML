@@ -9,3 +9,5 @@
 ## Machine performance metric
 
 mse, accuracy
+
+## pr curve, ROC Curve
