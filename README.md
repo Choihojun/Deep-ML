@@ -22,7 +22,17 @@ How to make develop environment (check the howtoinstall.md)
 - 3.1.2 Gradient vanishing problem & Relu activation function
 - 3.1.3 Step of implementing DNN
 - 3.2 Example of DNN 1 (Classification with MNIST data)
-- 3.3 Example of DNN 2 (Classification with Colar image)
+- 3.3 Example of DNN 2 (Classification with Color image)
 - 3.4 Outro
 
 ## Part4. CNN (Convolutional Neural Network)
+
+- 4.1 Principle of CNN
+- 4.2 Example of CNN 1 (Classification with MNIST data)
+- 4.3 Example of CNN 2 (Classification with Color data)
+- 4.4 Outro
+
+## Part5. RNN (Recurrent Neural Network)
+
+- 5.1 Principle of RNN
+- 
