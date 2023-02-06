@@ -55,3 +55,12 @@ if problem happen \
 8. Type `git pull origin main --allow-unrelated-histories`
 9. Type `git push -u origin master` (push to remote repo)
 10. Check the state at Github and click `Compare & pull request` button
+
+
+## 4. For using GPU (Install CUDA)
+
+텐서플로우 버전 확인 -> 1.14.0
+파이썬 버전 확인 -> python --version -> 3.7.12
+
+아무래도 우분투에서 작업을 진행해야 할듯하다.
+CUDA 설치: https://mwna40000.tistory.com/17
