@@ -34,5 +34,27 @@ How to make develop environment (check the howtoinstall.md)
 
 ## Part5. RNN (Recurrent Neural Network)
 
-- 5.1 Principle of RNN
-- 
+- 5.1 Principle of RNN & Structure with notion
+- 5.2 LSTM Structure & Implementing
+- 5.3 Example of LSTM 1 (sentence discrimanating)
+- 5.4 Example of LSTM 2 (Prediction using time continuous data)
+- 5.5 Outro
+
+## Part6. Autoencoder (AE)
+
+- 6.1 Principle of Autoencoder
+- 6.2 Example of AE 1 (implementing AE using fully connected layer)
+- 6.3 Example of AE 2 (implementing AE using convolution)
+- 6.4 Outro
+
+## Part7. GAN (Generative Adversarial Networks)
+
+
+## Part8. UNET (Image Segmentation)
+
+## Part9. Extended keras function
+
+
+## Part10. RL (Reinforcement Learning)
+
+## Part11. QAI (Quantum Artificial Inteligence)
