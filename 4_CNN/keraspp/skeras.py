@@ -17,8 +17,8 @@ def plot_acc(history, title=None):
     if not isinstance(history, dict):
         history = history.history
 
-    plt.plot(history['acc'])
-    plt.plot(history['val_acc'])
+    plt.plot(history['accuracy'])
+    plt.plot(history['val_accuracy'])
     if title is not None:
         plt.title(title)
     plt.ylabel('Accracy')
