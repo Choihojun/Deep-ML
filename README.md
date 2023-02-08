@@ -34,7 +34,7 @@ How to make develop environment (check the howtoinstall.md)
 
 ## Part5. RNN (Recurrent Neural Network)
 
-- 5.1 Principle of RNN & Structure with notion
+- 5.1 Principle of RNN & Structure with notion + Limitation
 - 5.2 LSTM Structure & Implementing
 - 5.3 Example of LSTM 1 (sentence discrimanating)
 - 5.4 Example of LSTM 2 (Prediction using time continuous data)
