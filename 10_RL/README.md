@@ -129,3 +129,7 @@ $Q_{\pi}[s,a]$는 수렴 행동가치함수입니다. 새롭게 구한 정책은
 ## 3. RL Example using Policy Iteration method.
 
 Check Example (Frozen Lake)
+
+- (install gym) pip install gym
+
+*gym은 강화학습 실습을 위한 환경임 (OpenAI가 운영하는 강화학습 알고리즘을 개발하고 검증할수있는 예제 환경을 제공하는 툴킷임)
